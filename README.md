@@ -1,1 +1,1 @@
-# node-api-template
+# node-express-template
